@@ -29,4 +29,21 @@ CXX="/usr/bin/g++"              \
 make
 ```
 
+# Make test
+```console
+make test
+```
+
+# Install
+# Make
+```console
+make install
+```
+
+# Link Library
+```console
+chmod -v 755 /usr/lib/libpython3.5m.so &&
+chmod -v 755 /usr/lib/libpython3.so
+```
+
 
