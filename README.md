@@ -24,4 +24,9 @@ CXX="/usr/bin/g++"              \
             --with-system-ffi
 
 ```
+# Make
+```console
+make
+```
+
 
